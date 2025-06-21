@@ -1,0 +1,20 @@
+{
+  "name": "Klevs repo! (beta1)",
+  "icon": "https://raw.githubusercontent.com/YourUsername/my-ipa-signing-repo/main/logo.png",
+  "apps": [
+    {
+      "name": "My Cool App",
+      "bundleID": "com.mycompany.coolapp",
+      "version": "1.0",
+      "developer": "Your Name",
+      "ipa": "https://raw.githubusercontent.com/YourUsername/my-ipa-signing-repo/main/MyCoolApp.ipa"
+    },
+    {
+      "name": "Another Cool App",
+      "bundleID": "com.anotherapp.coolapp",
+      "version": "2.3",
+      "developer": "Another Developer",
+      "ipa": "https://raw.githubusercontent.com/YourUsername/my-ipa-signing-repo/main/AnotherCoolApp.ipa"
+    }
+  ]
+}
